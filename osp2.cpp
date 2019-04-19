@@ -20,7 +20,7 @@ int main()
         scanf("%d",&at[i]);
         printf("Priority:");
         scanf("%d",&pr[i]);
-        p[i]=i+1;           //it contains process number
+        p[i]=i+1;           //it contains process number\
     }
  
    
